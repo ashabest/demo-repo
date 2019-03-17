@@ -11,3 +11,13 @@ List with -:
 - b
 - c
 
+List with *:
+* a
+* b
+* c
+
+List with +:
++ a
++ b
++ c
+
